@@ -1,6 +1,5 @@
-	•	👋 Hi, I’m Ashutosh Vinayak Sahai, a 3rd-year Electronics and Communication engineering student.
+	•	👋 Hi, I’m Ashutosh Vinayak Sahai, a 4th year Electronics and Communication engineering student.
 	•	👀 I’m interested in Data Structures, Algorithms, and Full-Stack Development (MERN).
-	•	🌱 I’m currently learning Dynamic Programming, Express.js, and Backend Development.
 	•	💞️ I’m looking to collaborate on open-source projects and development work that leverages AI/ML or backend systems.
 	•	📫 You can reach me at sahaiashutoshvinayak@gmail.com.
 	•	😄 Pronouns: He/Him
